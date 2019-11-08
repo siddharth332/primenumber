@@ -1,3 +1,2 @@
 # primenumber
-
-After doing branch..i added this line
+adding branch to parent branch
